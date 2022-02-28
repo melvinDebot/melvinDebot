@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./header1-1.png)](https://www.melvindebot.com/#/)
+[![Braydon's GitHub Banner](./header.png)](https://www.melvindebot.com/#/)
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=melvindebot&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/melvinDebot)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/melvin-debot-b22078173/?originalSubdomain=fr)
@@ -37,7 +37,6 @@ Want to know more about me? [Check out my portfolio.](https://www.melvindebot.co
 <a href="https://github.com/melvinDebot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinDebot&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 <a href="https://github.com/melvinDebot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=melvinDebot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="melvinDebot's GitHub Stats" />
 </a>
@@ -52,7 +51,7 @@ Want to know more about me? [Check out my portfolio.](https://www.melvindebot.co
 ![](https://img.shields.io/badge/Code-Vue-informational?style=?style=for-the-badge&logo=vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=4AB197)
 
 
 <details>
@@ -85,4 +84,4 @@ Want to know more about me? [Check out my portfolio.](https://www.melvindebot.co
 
 <br>
 
-<a href="https://app.daily.dev/melvinDbt"><img src="https://api.daily.dev/devcards/9bd074c23fe8422fbfb91748eba7f5bc.png?r=v9m" width="400" alt="Melvin Debot's Dev Card"/></a>
+<a href="https://app.daily.dev/melvinDbt"><img src="https://api.daily.dev/devcards/9bd074c23fe8422fbfb91748eba7f5bc.png?r=v9m" width="200" alt="Melvin Debot's Dev Card"/></a>
