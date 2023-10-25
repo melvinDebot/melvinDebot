@@ -6,8 +6,6 @@
 
 Hey there 👋
 
-- 🔭 I’m currently working on [Exceenis](https://www.exceenis.com/)
-
 - 🤝 I’m looking for help with **an IOT project**
 
 - 👨‍💻 All of my projects are available at [https://www.melvindebot.com/#/](https://www.melvindebot.com/#/)
